@@ -6,4 +6,4 @@ For best results, click on this link first: https://thetimmynatorex.github.io/in
 # Miasto Kod
 A test website I created in 2021 using PHP and MySQL that shows names and post codes of Polish towns. (Site is in Polish/Strona jest po polsku)
 
-Visit the site here/Sprawdź tą stronę tutaj: https://thetimmynatorex.github.io/miasto-kod/index.php
+Visit the site here/Sprawdź tą stronę tutaj: https://thetimmynatorex.github.io/miasto-kod/index.html
